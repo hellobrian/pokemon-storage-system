@@ -8,6 +8,10 @@
   padding: 0;
 }
 
+.root:disabled {
+  opacity: 0.1;
+}
+
 .img {
   width: 42px;
   height: 42px;
