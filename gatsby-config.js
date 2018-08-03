@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Pokemon Storage Systems',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
